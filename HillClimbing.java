@@ -23,8 +23,8 @@ public class HillClimbing {
                 //bikin matrix [],[] --> baris,kolom
 		String kode[][] = {
                     {"car-f-92", "CAR92"},     //baris 1 kolom 1 = car-f-92  ,  baris 1 kolom 2 = CAR92
-                    {"car-s-91", "CAR91"},     //baris 2 kolom 1 = car-s-91  ,  baris 2 kolom 2 = CAR91
-                    {"ear-f-83", "EAR83"},     //dst
+                    {"car-s-91", "CAR91"},     
+                    {"ear-f-83", "EAR83"},     
                     {"hec-s-92", "HEC92"}, 
                     {"kfu-s-93", "KFU93"}, 
                     {"lse-f-91", "LSE91"}, 
